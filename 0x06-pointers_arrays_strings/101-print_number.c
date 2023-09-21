@@ -9,8 +9,7 @@ void print_number(int n)
 	int power;
 	int neg;
 	int bool;
-
-neg = 0;
+	neg = 0;
 	power = 1;
 	bool = n;
 	if (n < 0)
@@ -42,12 +41,4 @@ neg = 0;
 			power = 0;
 		}
 	}
-}
-
-
-
-
-
-
-
 }
